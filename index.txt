@@ -7,4 +7,4 @@ my name is haris
 my age is 17
 i am a web developer
 i passed the matric
-now ia in intermediate
+now i am in intermediate
